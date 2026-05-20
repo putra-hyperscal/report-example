@@ -1,0 +1,167 @@
+{
+    "meta": {
+        "group_rows": [
+            { "key": "date", "label": "Date" },
+            { "key": "workload_type", "label": "Workload Type" }
+        ],
+        "group_columns": [
+            { "key": "status", "label": "Status" },
+            { "key": "region", "label": "Data Center Region" }
+        ],
+        "columns": [
+            { "key": "memory_gb_sum", "label": "Memory (GB) (SUM)" },
+            { "key": "monthly_cost_sum", "label": "Monthly Cost (SUM)" },
+            { "key": "status", "label": "Status" },
+            { "key": "instance_id", "label": "Instance ID" }
+        ]
+    },
+    "data": {
+        "flat_data": [
+            { "date": "20260213", "workload_type": "(not set)",   "status": "Active", "region": "ap-south-1", "memory_gb_sum": 16, "monthly_cost_sum": 175,  "instance_id": "i-0g7" },
+            { "date": "20260213", "workload_type": "(not set)",   "status": "Active", "region": "eu-west-1",  "memory_gb_sum": 16, "monthly_cost_sum": 175,  "instance_id": "i-0d4" },
+            { "date": "20260213", "workload_type": "(not set)",   "status": "Active", "region": "us-east-1",  "memory_gb_sum": 16, "monthly_cost_sum": 175,  "instance_id": "i-0a1" },
+            { "date": "20260213", "workload_type": "(not set)",   "status": "Active", "region": "us-west-2",  "memory_gb_sum": 16, "monthly_cost_sum": 175,  "instance_id": "i-0j0" },
+            { "date": "20260213", "workload_type": "established", "status": "Active", "region": "ap-south-1", "memory_gb_sum": 32, "monthly_cost_sum": 3808, "instance_id": "i-0h8" },
+            { "date": "20260213", "workload_type": "established", "status": "Active", "region": "eu-west-1",  "memory_gb_sum": 32, "monthly_cost_sum": 3808, "instance_id": "i-0e5" },
+            { "date": "20260213", "workload_type": "established", "status": "Active", "region": "us-east-1",  "memory_gb_sum": 32, "monthly_cost_sum": 3808, "instance_id": "i-0b2" },
+            { "date": "20260213", "workload_type": "established", "status": "Active", "region": "us-west-2",  "memory_gb_sum": 32, "monthly_cost_sum": 3808, "instance_id": "i-0k1" },
+            { "date": "20260213", "workload_type": "new",         "status": "Active", "region": "ap-south-1", "memory_gb_sum": 64, "monthly_cost_sum": 3816, "instance_id": "i-0i9" },
+            { "date": "20260213", "workload_type": "new",         "status": "Active", "region": "eu-west-1",  "memory_gb_sum": 64, "monthly_cost_sum": 3816, "instance_id": "i-0f6" },
+            { "date": "20260213", "workload_type": "new",         "status": "Active", "region": "us-east-1",  "memory_gb_sum": 64, "monthly_cost_sum": 3816, "instance_id": "i-0c3" },
+            { "date": "20260213", "workload_type": "new",         "status": "Active", "region": "us-west-2",  "memory_gb_sum": 64, "monthly_cost_sum": 3816, "instance_id": "i-0l2" },
+
+            { "date": "20260214", "workload_type": "(not set)",   "status": "Active", "region": "ap-south-1", "memory_gb_sum": 16, "monthly_cost_sum": 72,   "instance_id": "i-1g7" },
+            { "date": "20260214", "workload_type": "(not set)",   "status": "Active", "region": "eu-west-1",  "memory_gb_sum": 16, "monthly_cost_sum": 72,   "instance_id": "i-1d4" },
+            { "date": "20260214", "workload_type": "(not set)",   "status": "Active", "region": "us-east-1",  "memory_gb_sum": 16, "monthly_cost_sum": 72,   "instance_id": "i-1a1" },
+            { "date": "20260214", "workload_type": "(not set)",   "status": "Active", "region": "us-west-2",  "memory_gb_sum": 16, "monthly_cost_sum": 72,   "instance_id": "i-1j0" },
+            { "date": "20260214", "workload_type": "established", "status": "Active", "region": "ap-south-1", "memory_gb_sum": 32, "monthly_cost_sum": 1412, "instance_id": "i-1h8" },
+            { "date": "20260214", "workload_type": "established", "status": "Active", "region": "eu-west-1",  "memory_gb_sum": 32, "monthly_cost_sum": 1412, "instance_id": "i-1e5" },
+            { "date": "20260214", "workload_type": "established", "status": "Active", "region": "us-east-1",  "memory_gb_sum": 32, "monthly_cost_sum": 1412, "instance_id": "i-1b2" },
+            { "date": "20260214", "workload_type": "established", "status": "Active", "region": "us-west-2",  "memory_gb_sum": 32, "monthly_cost_sum": 1412, "instance_id": "i-1k1" },
+            { "date": "20260214", "workload_type": "new",         "status": "Active", "region": "ap-south-1", "memory_gb_sum": 64, "monthly_cost_sum": 2113, "instance_id": "i-1i9" },
+            { "date": "20260214", "workload_type": "new",         "status": "Active", "region": "eu-west-1",  "memory_gb_sum": 64, "monthly_cost_sum": 2113, "instance_id": "i-1f6" },
+            { "date": "20260214", "workload_type": "new",         "status": "Active", "region": "us-east-1",  "memory_gb_sum": 64, "monthly_cost_sum": 2113, "instance_id": "i-1c3" },
+            { "date": "20260214", "workload_type": "new",         "status": "Active", "region": "us-west-2",  "memory_gb_sum": 64, "monthly_cost_sum": 2113, "instance_id": "i-1l2" },
+
+            { "date": "20260215", "workload_type": "(not set)",   "status": "Active", "region": "ap-south-1", "memory_gb_sum": 16, "monthly_cost_sum": 51,   "instance_id": "i-2g7" },
+            { "date": "20260215", "workload_type": "(not set)",   "status": "Active", "region": "eu-west-1",  "memory_gb_sum": 16, "monthly_cost_sum": 51,   "instance_id": "i-2d4" },
+            { "date": "20260215", "workload_type": "(not set)",   "status": "Active", "region": "us-east-1",  "memory_gb_sum": 16, "monthly_cost_sum": 51,   "instance_id": "i-2a1" },
+            { "date": "20260215", "workload_type": "(not set)",   "status": "Active", "region": "us-west-2",  "memory_gb_sum": 16, "monthly_cost_sum": 51,   "instance_id": "i-2j0" },
+            { "date": "20260215", "workload_type": "established", "status": "Active", "region": "ap-south-1", "memory_gb_sum": 32, "monthly_cost_sum": 1070, "instance_id": "i-2h8" },
+            { "date": "20260215", "workload_type": "established", "status": "Active", "region": "eu-west-1",  "memory_gb_sum": 32, "monthly_cost_sum": 1070, "instance_id": "i-2e5" },
+            { "date": "20260215", "workload_type": "established", "status": "Active", "region": "us-east-1",  "memory_gb_sum": 32, "monthly_cost_sum": 1070, "instance_id": "i-2b2" },
+            { "date": "20260215", "workload_type": "established", "status": "Active", "region": "us-west-2",  "memory_gb_sum": 32, "monthly_cost_sum": 1070, "instance_id": "i-2k1" },
+            { "date": "20260215", "workload_type": "new",         "status": "Active", "region": "ap-south-1", "memory_gb_sum": 64, "monthly_cost_sum": 2157, "instance_id": "i-2i9" },
+            { "date": "20260215", "workload_type": "new",         "status": "Active", "region": "eu-west-1",  "memory_gb_sum": 64, "monthly_cost_sum": 2157, "instance_id": "i-2f6" },
+            { "date": "20260215", "workload_type": "new",         "status": "Active", "region": "us-east-1",  "memory_gb_sum": 64, "monthly_cost_sum": 2157, "instance_id": "i-2c3" },
+            { "date": "20260215", "workload_type": "new",         "status": "Active", "region": "us-west-2",  "memory_gb_sum": 64, "monthly_cost_sum": 2157, "instance_id": "i-2l2" }
+        ],
+        "pivoted_data": {
+            "_comment": "column_keys[i] is the header for cells[i] in every row. null cell = data not available.",
+            "column_keys": [
+                { "status": "Active", "region": "ap-south-1" },
+                { "status": "Active", "region": "eu-west-1"  },
+                { "status": "Active", "region": "us-east-1"  },
+                { "status": "Active", "region": "us-west-2"  }
+            ],
+            "row_groups": [
+                {
+                    "date": "20260213",
+                    "rows": [
+                        {
+                            "workload_type": "(not set)",
+                            "cells": [
+                                { "memory_gb_sum": 16, "monthly_cost_sum": 175,  "status": "Active", "instance_id": "i-0g7" },
+                                { "memory_gb_sum": 16, "monthly_cost_sum": 175,  "status": "Active", "instance_id": "i-0d4" },
+                                { "memory_gb_sum": 16, "monthly_cost_sum": 175,  "status": "Active", "instance_id": "i-0a1" },
+                                { "memory_gb_sum": 16, "monthly_cost_sum": 175,  "status": "Active", "instance_id": "i-0j0" }
+                            ]
+                        },
+                        {
+                            "workload_type": "established",
+                            "cells": [
+                                { "memory_gb_sum": 32, "monthly_cost_sum": 3808, "status": "Active", "instance_id": "i-0h8" },
+                                { "memory_gb_sum": 32, "monthly_cost_sum": 3808, "status": "Active", "instance_id": "i-0e5" },
+                                { "memory_gb_sum": 32, "monthly_cost_sum": 3808, "status": "Active", "instance_id": "i-0b2" },
+                                { "memory_gb_sum": 32, "monthly_cost_sum": 3808, "status": "Active", "instance_id": "i-0k1" }
+                            ]
+                        },
+                        {
+                            "workload_type": "new",
+                            "cells": [
+                                { "memory_gb_sum": 64, "monthly_cost_sum": 3816, "status": "Active", "instance_id": "i-0i9" },
+                                { "memory_gb_sum": 64, "monthly_cost_sum": 3816, "status": "Active", "instance_id": "i-0f6" },
+                                { "memory_gb_sum": 64, "monthly_cost_sum": 3816, "status": "Active", "instance_id": "i-0c3" },
+                                { "memory_gb_sum": 64, "monthly_cost_sum": 3816, "status": "Active", "instance_id": "i-0l2" }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "date": "20260214",
+                    "rows": [
+                        {
+                            "workload_type": "(not set)",
+                            "cells": [
+                                { "memory_gb_sum": 16, "monthly_cost_sum": 72,   "status": "Active", "instance_id": "i-1g7" },
+                                { "memory_gb_sum": 16, "monthly_cost_sum": 72,   "status": "Active", "instance_id": "i-1d4" },
+                                { "memory_gb_sum": 16, "monthly_cost_sum": 72,   "status": "Active", "instance_id": "i-1a1" },
+                                { "memory_gb_sum": 16, "monthly_cost_sum": 72,   "status": "Active", "instance_id": "i-1j0" }
+                            ]
+                        },
+                        {
+                            "workload_type": "established",
+                            "cells": [
+                                { "memory_gb_sum": 32, "monthly_cost_sum": 1412, "status": "Active", "instance_id": "i-1h8" },
+                                { "memory_gb_sum": 32, "monthly_cost_sum": 1412, "status": "Active", "instance_id": "i-1e5" },
+                                { "memory_gb_sum": 32, "monthly_cost_sum": 1412, "status": "Active", "instance_id": "i-1b2" },
+                                { "memory_gb_sum": 32, "monthly_cost_sum": 1412, "status": "Active", "instance_id": "i-1k1" }
+                            ]
+                        },
+                        {
+                            "workload_type": "new",
+                            "cells": [
+                                { "memory_gb_sum": 64, "monthly_cost_sum": 2113, "status": "Active", "instance_id": "i-1i9" },
+                                { "memory_gb_sum": 64, "monthly_cost_sum": 2113, "status": "Active", "instance_id": "i-1f6" },
+                                { "memory_gb_sum": 64, "monthly_cost_sum": 2113, "status": "Active", "instance_id": "i-1c3" },
+                                { "memory_gb_sum": 64, "monthly_cost_sum": 2113, "status": "Active", "instance_id": "i-1l2" }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "date": "20260215",
+                    "rows": [
+                        {
+                            "workload_type": "(not set)",
+                            "cells": [
+                                { "memory_gb_sum": 16, "monthly_cost_sum": 51,   "status": "Active", "instance_id": "i-2g7" },
+                                { "memory_gb_sum": 16, "monthly_cost_sum": 51,   "status": "Active", "instance_id": "i-2d4" },
+                                { "memory_gb_sum": 16, "monthly_cost_sum": 51,   "status": "Active", "instance_id": "i-2a1" },
+                                { "memory_gb_sum": 16, "monthly_cost_sum": 51,   "status": "Active", "instance_id": "i-2j0" }
+                            ]
+                        },
+                        {
+                            "workload_type": "established",
+                            "cells": [
+                                { "memory_gb_sum": 32, "monthly_cost_sum": 1070, "status": "Active", "instance_id": "i-2h8" },
+                                { "memory_gb_sum": 32, "monthly_cost_sum": 1070, "status": "Active", "instance_id": "i-2e5" },
+                                { "memory_gb_sum": 32, "monthly_cost_sum": 1070, "status": "Active", "instance_id": "i-2b2" },
+                                { "memory_gb_sum": 32, "monthly_cost_sum": 1070, "status": "Active", "instance_id": "i-2k1" }
+                            ]
+                        },
+                        {
+                            "workload_type": "new",
+                            "cells": [
+                                { "memory_gb_sum": 64, "monthly_cost_sum": 2157, "status": "Active", "instance_id": "i-2i9" },
+                                { "memory_gb_sum": 64, "monthly_cost_sum": 2157, "status": "Active", "instance_id": "i-2f6" },
+                                { "memory_gb_sum": 64, "monthly_cost_sum": 2157, "status": "Active", "instance_id": "i-2c3" },
+                                { "memory_gb_sum": 64, "monthly_cost_sum": 2157, "status": "Active", "instance_id": "i-2l2" }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

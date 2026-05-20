@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "group_rows": [
+            { "key": "date", "label": "Date" },
+            { "key": "workload_type", "label": "Workload Type" }
+        ],
+        "group_columns": [
+            { "key": "status", "label": "Status" },
+            { "key": "region", "label": "Data Center Region" }
+        ],
+        "columns": [
+            { "key": "memory_gb_sum", "label": "Memory (GB) (SUM)" },
+            { "key": "monthly_cost_sum", "label": "Monthly Cost ($) (SUM)" },
+            { "key": "status", "label": "Status" },
+            { "key": "instance_id", "label": "Instance ID" }
+        ]
+    },
+    "data": {
+        "flat_data": [
+            {}
+        ],
+        "pivoted_data": []
+    }
+}
