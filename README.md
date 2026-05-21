@@ -1,5 +1,7 @@
 # Report Example
 
+![Report Example](full_reporting_table.png)
+
 ## How to Run
 
 ```bash
